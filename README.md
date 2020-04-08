@@ -8,3 +8,4 @@ Using LEGO to build a 3D model (Ponyo)
 3. Use TINKERCAD software to translate the 3D model to buildable brick model. (Ref: https://www.tinkercad.com/bricks)
 
 4. Build the real model by using LEGO.
+
